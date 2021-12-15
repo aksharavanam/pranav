@@ -1,0 +1,23 @@
+hr {
+  background-color: #00ffbf;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: orange;
+  border-width: 4px;
+  width: 20%;
+}
+h1 {
+  color: orange
+}
+h2 {
+  color: orange
+}
+h3 {
+    color: orange
+}
+body {
+  background-color:#00ffbf
+}
+img {
+background-color:#00ffbf
+}
